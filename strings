@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Agro Farmers</string>
+    <string name="version_1_0_0">Version 1.0.0</string>
+    <string name="powered_by_comsians">Powered By; COMSIANS</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
+    <string name="show_password">Show Password</string>
+    <string name="forgot_password"><u>Forgotten Password?</u></string>
+    <string name="new_user">Create new account <u>here!</u></string>
+</resources>
